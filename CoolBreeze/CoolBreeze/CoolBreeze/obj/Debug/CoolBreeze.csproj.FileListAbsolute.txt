@@ -1,0 +1,17 @@
+C:\Users\brian\Projects\VisualStudio2017\XamarinChallenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\CoolBreeze.dll
+C:\Users\brian\Projects\VisualStudio2017\XamarinChallenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\CoolBreeze.pdb
+C:\Users\brian\Projects\VisualStudio2017\XamarinChallenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\brian\Projects\VisualStudio2017\XamarinChallenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\brian\Projects\VisualStudio2017\XamarinChallenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\brian\Projects\VisualStudio2017\XamarinChallenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\brian\Projects\VisualStudio2017\XamarinChallenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\brian\Projects\VisualStudio2017\XamarinChallenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\brian\Projects\VisualStudio2017\XamarinChallenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\brian\Projects\VisualStudio2017\XamarinChallenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\brian\Projects\VisualStudio2017\XamarinChallenge\CoolBreeze\CoolBreeze\CoolBreeze\obj\Debug\CoolBreeze.csprojResolveAssemblyReference.cache
+C:\Users\brian\Projects\VisualStudio2017\XamarinChallenge\CoolBreeze\CoolBreeze\CoolBreeze\obj\Debug\CoolBreeze.MainPage.xaml.g.cs
+C:\Users\brian\Projects\VisualStudio2017\XamarinChallenge\CoolBreeze\CoolBreeze\CoolBreeze\obj\Debug\CoolBreeze.App.xaml.g.cs
+C:\Users\brian\Projects\VisualStudio2017\XamarinChallenge\CoolBreeze\CoolBreeze\CoolBreeze\obj\Debug\CoolBreeze.dll
+C:\Users\brian\Projects\VisualStudio2017\XamarinChallenge\CoolBreeze\CoolBreeze\CoolBreeze\obj\Debug\CoolBreeze.pdb
+C:\Users\brian\Projects\VisualStudio2017\XamarinChallenge\CoolBreeze\CoolBreeze\CoolBreeze\obj\Debug\CoolBreeze.dll.mdb
+C:\Users\brian\Projects\VisualStudio2017\XamarinChallenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\CoolBreeze.dll.mdb
